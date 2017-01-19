@@ -1,4 +1,4 @@
-var request = require('request-promise');
+const request = require('request-promise');
 const configurations = require('./configurations');
 
 module.exports = {
